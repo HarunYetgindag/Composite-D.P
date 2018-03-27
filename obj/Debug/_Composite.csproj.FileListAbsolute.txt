@@ -1,0 +1,8 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 7\_Composite\bin\Debug\_Composite.exe.config
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 7\_Composite\bin\Debug\_Composite.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 7\_Composite\bin\Debug\_Composite.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 7\_Composite\obj\Debug\_Composite.exe
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 AKADEMİK YILI\Bahar\Nesne Tabanlı Programlama\Uygulamalar\1. Öğretimler\Hafta 7\_Composite\obj\Debug\_Composite.pdb
+C:\Users\Harun\Desktop\OOP\Hafta 7\_Composite\bin\Debug\_Composite.exe.config
+C:\Users\Harun\Desktop\OOP\Hafta 7\_Composite\obj\Debug\_Composite.exe
+C:\Users\Harun\Desktop\OOP\Hafta 7\_Composite\obj\Debug\_Composite.pdb
